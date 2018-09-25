@@ -1,0 +1,12 @@
+{
+  "Boat": [
+    "Captain",
+    "Crew",
+    "Passenger",
+    "Cook"
+  ],
+  "Cafe" : [
+    "Chef",
+    "Patron"
+  ]
+}

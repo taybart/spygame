@@ -1,0 +1,25 @@
+{
+  "Hogwarts": [
+    "Prefect",
+    "Professor",
+    "Headmaster",
+    "First Year",
+    "Beast Master",
+    "Dementor",
+    "Basilisk",
+    "Werewolf",
+    "Sorting Hat"
+  ],
+
+  "Ministry of Magic": [
+    "Cornelius Fudge",
+    "Mad Eye Moody",
+    "Arthur Weasley",
+    "Magical Law Enforcement",
+    "Muggle",
+    "Death Eater",
+    "Auror",
+    "Scribe",
+    "Pencil Pusher"
+  ]
+}

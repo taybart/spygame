@@ -1,0 +1,37 @@
+{
+  "Eros Station": [
+    "Engineer",
+    "Pilot",
+    "OPA Operative",
+    "Citizen of the Belt",
+    "Vomit Zombie",
+    "Mercenary",
+    "Prisoner",
+    "Smuggler"
+  ],
+
+
+  "The Ring Gate" : [
+    "Martian Marine",
+    "Priest",
+    "Earth Navy Admiral",
+    "OPA Engineer",
+    "OPA Mercenary",
+    "Miller Ghost",
+    "Saboteur",
+    "Reporter",
+    "Earth Navy Sailor",
+    "Martian Pilot"
+  ],
+
+  "Mars" : [
+    "Fungus Grower",
+    "Dome Constructor",
+    "Transport Ship Pilot",
+    "School child",
+    "Politician",
+    "Military Recruit",
+    "Teraform Researcher",
+    "Gunsmith"
+  ]
+}

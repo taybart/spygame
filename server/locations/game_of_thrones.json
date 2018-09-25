@@ -1,0 +1,41 @@
+{
+  "The Red Keep" : [
+    "Kingsguard",
+    "King",
+    "Prince",
+    "Master of Coin",
+    "Master of Ships",
+    "Master of Whispers",
+    "Maester",
+    "Red Cloak",
+    "Gold Cloak",
+    "Inn Owner",
+    "Harbor Master",
+    "Blacksmith"
+  ],
+
+  "The Wall and Beyond": [
+    "Lord Commander",
+    "Watcher on the Wall",
+    "Wildling",
+    "Hore",
+    "Maester",
+    "Maesters Attendent",
+    "Nightswatch Recruit",
+    "White Walker",
+    "Children of the Forest",
+    "Bloodraven"
+  ],
+
+  "Braavos": [
+    "House of Black and White Trainee",
+    "Faceless Man",
+    "Iron Banker",
+    "Freed Slave",
+    "Clams and Cockles Cart Seller",
+    "Titan of Braavos",
+    "Bard",
+    "Gambler",
+    "Dock Worker"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Tatooine" : [
+    "Moisture Farmer",
+    "Jedi Master",
+    "Stormtrooper",
+    "Human Cyborg Relations Droid",
+    "Jawa",
+    "Canteen Owner",
+    "Smuggler",
+    "Womp Rat Blaster",
+    "Empire Sypathiser"
+  ],
+
+  "Death Star": [
+    "Stormtrooper",
+    "Sith Lord",
+    "Engineer",
+    "Mechanic",
+    "Tie Fighter Pilot",
+    "Imprissoned Princess",
+    "Janitor",
+    "Rebel Pilot"
+  ],
+
+  "Jedi Temple" : [
+    "Jedi Knight",
+    "Padawan",
+    "Archivist",
+    "Jedi Master",
+    "Guard",
+    "Cook",
+    "Instructor",
+    "Researcher"
+  ]
+}

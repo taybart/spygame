@@ -1,0 +1,34 @@
+{
+  "Mordor": [
+    "Orc",
+    "Ranger",
+    "Ring Bearer",
+    "Shelob",
+    "Scout",
+    "Ring Raith",
+    "White Wizard",
+    "Soilder of Gondor"
+  ],
+
+  "Edoras" : [
+    "King Theodin",
+    "Eowyn",
+    "Aaragorn",
+    "Rohirim",
+    "Hobbit",
+    "Stable Boy",
+    "Farmer",
+    "Eomer"
+  ],
+
+  "The Shire" : [
+    "Gardener",
+    "Party Planner",
+    "Grey Wizard",
+    "Inn Owner",
+    "Bar Maid",
+    "Child",
+    "Party Goer",
+    "Farmer"
+  ]
+}
