@@ -107,7 +107,7 @@ export default class App extends Component {
           <div className="row justify-content-center">
             <div className="col text-center">
               <div className="title">
-                Not Spyfall
+                {/* Not Spyfall */}
               </div>
             </div>
           </div>
